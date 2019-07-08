@@ -18,7 +18,7 @@ If you find the code useful for your research, please consider citing our paper:
 ## Live Demo
 http://deepmotion.cs.uni-freiburg.de/
 
-## Example Segmentation Results
+## Example Motion Segmentation Results
 
 | Dataset       | RGB_Image     | Optical_Flow_Image| Motion_Segmented_Image|
 | ------------- | ------------- | -------------  | -------------  |
