@@ -20,10 +20,10 @@ http://deepmotion.cs.uni-freiburg.de
 
 ## Example Motion Segmentation Results
 
-| Dataset       | RGB Image     | Optical Flow | Semantic Motion Segmentation |
+| Dataset       | Input RGB Image     | Optical Flow | Semantic Motion Segmentation Output |
 | ------------- | ------------- | -------------  | -------------  |
 | Cityscapes    |<img src="images/city_rgb.png" width=300> |  <img src="images/city_flow.png" width=300>| <img src="images/city_prediction.png" width=300>|
-| Kitti  | <img src="images/kitti_rgb.png" width=300>  |<img src="images/kitti_flow.png" width=300> |<img src="images/kitti_prediction.png" width=300> |
+| KITTI  | <img src="images/kitti_rgb.png" width=300>  |<img src="images/kitti_flow.png" width=300> |<img src="images/kitti_prediction.png" width=300> |
 
 ## Contacts
 * [Abhinav Valada](http://www2.informatik.uni-freiburg.de/~valada)
