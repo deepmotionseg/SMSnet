@@ -18,7 +18,7 @@ If you find the code useful for your research, please consider citing our paper:
 ## Live Demo
 http://deepmotion.cs.uni-freiburg.de
 
-## Example Motion Segmentation Results
+## Example Semantic Motion Segmentation Results
 
 | Dataset       | Input RGB Image     | Optical Flow | Semantic Motion Segmentation Output |
 | ------------- | ------------- | -------------  | -------------  |
