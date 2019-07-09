@@ -1,4 +1,4 @@
-# SMSnet:  Semantic  Motion  Segmentationusing  Deep  Convolutional  Neural  Networks
+# SMSnet:  Semantic  Motion  Segmentation Using  Deep  Convolutional  Neural  Networks
 SMSnet is a deep learning model for semantic motion segmentation, where the goal is to assign semantic labels as well as motion labels (moving or static) to every pixel in the input image. SMSnet is easily trainable on a single GPU with 12 GB of memory and has a fast inference time. SMSnet is benchmarked on Cityscapes and KITTI datasets.
 
 This repository contains our TensorFlow implementation of SMSnet which allows you to train your own model on any dataset and evaluate the results in terms of the mean IoU metric.
