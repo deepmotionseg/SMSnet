@@ -20,7 +20,7 @@ http://deepmotion.cs.uni-freiburg.de
 
 ## Example Motion Segmentation Results
 
-| Dataset       | RGB_Image     | Optical_Flow_Image| Motion_Segmented_Image|
+| Dataset       | RGB Image     | Optical Flow | Semantic Motion Segmentation |
 | ------------- | ------------- | -------------  | -------------  |
 | Cityscapes    |<img src="images/city_rgb.png" width=300> |  <img src="images/city_flow.png" width=300>| <img src="images/city_prediction.png" width=300>|
 | Kitti  | <img src="images/kitti_rgb.png" width=300>  |<img src="images/kitti_flow.png" width=300> |<img src="images/kitti_prediction.png" width=300> |
